@@ -1,4 +1,4 @@
-REM Simple Password-Protected Database in BASIC
+REM Simple password-protected database in BASIC
 DIM NAME$(100), EMAIL$(100)
 LET PASSWORD$ = "secret"
 LET COUNT = 0
